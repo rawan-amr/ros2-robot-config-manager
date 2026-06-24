@@ -1,0 +1,5 @@
+config_manager:
+  ros__parameters:
+    robot_name: WarehouseBot
+    battery_threshold: 15
+    temperature_threshold: 45
