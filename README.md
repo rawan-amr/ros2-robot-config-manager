@@ -6,8 +6,6 @@ ROS2 Robot Config Manager is a simple ROS2 Python package that demonstrates how 
 
 The node loads robot settings such as robot name, battery threshold, and temperature threshold. Parameters can be configured using default values, command-line arguments, or YAML configuration files.
 
-This project was developed as part of a ROS2 learning portfolio.
-
 ---
 
 ## Features
